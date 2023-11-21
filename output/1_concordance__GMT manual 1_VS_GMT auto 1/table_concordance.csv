@@ -1,0 +1,6 @@
+"Parameter","Estimates","X95.LCL","X95.UCL"
+"Conc. Slope (90%CI)","0.895","0.871","0.92"
+"Average Diff. (90%CI)","1.816","-9.525","14.579"
+"Fold Difference (90%CI)","1.018","0.905","1.146"
+"P-value Normality","0.00273","-","-"
+"Agreement","N/A","N/A","N/A"

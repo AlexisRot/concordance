@@ -1,0 +1,2 @@
+"Analysis (Var Y VS Var X)","N samples","Conc. Slope [90%CI]","Average %Diff. [90%CI]","GMR Y/X [90%CI]"
+"GMT manual 1 VS GMT auto 1",60,"0.9 [0.87 ; 0.92]","1.82 [-9.53 ; 14.58]","1.02 [0.9 ; 1.15]"

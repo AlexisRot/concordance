@@ -1,0 +1,7 @@
+include:
+  - project: 'clinical/cass/work/templatedevops/devopstemplatevars'
+    ref: rel-v.1.0.6
+    file: '/devops-var-images-Docker-R-4.0.4-foss-2020bREL-001.yml'
+  - project: 'clinical/cass/work/templatedevops/devopstemplatevars'
+    ref: rel-v.1.0.7
+    file: '/cicd-r-shiny-apps.yml'

@@ -1,0 +1,3 @@
+"variables","N samples","Mean","Mean (log10)","Variance (log10)","Standard deviation (log10)","Min","Max"
+"GMT.auto.1",64,15051.55,3.39,1.86,1.36,10,90971
+"GMT.manual.1",64,21250.92,3.45,2.3,1.52,5,115909

@@ -1,0 +1,5 @@
+"Parameter","Estimates","95%LCL","95%UCL"
+"GMT Reference Lab","2517.173","1023.752","6189.152"
+"GMT Destination Lab","2562.891","1144.551","5738.853"
+"GMT Ratio (95%CI)","1.018","0.884","1.173"
+"Rho","0.9922","-","-"
